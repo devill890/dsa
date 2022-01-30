@@ -6,4 +6,5 @@ int main()
     cin>>n>>m;
     int diff=n/m;
     cout<<diff<<endl;
+    cout<<"m should be small";
 }
