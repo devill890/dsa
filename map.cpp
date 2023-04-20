@@ -106,7 +106,7 @@ int main() {
 			mp[m]=s;//o(1)
 		}
 		map<int,string> ::iterator it ;
-		//you can use auto keyword to squeeze the cord size
+		//you can use auto keyword to squeeze the code size
 		for (it=mp.begin();it!=mp.end();it++){
 			//both print statements are the same
 			cout<<it->first<<" "<<it->second<<endl;
