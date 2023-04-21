@@ -1,5 +1,5 @@
-# dsa
-# Everything is in your hand now.!
+# DSA
+# Everything is in your hand now!
 This repository contains all the code for the Coding Development Program (CDP) classes. In this program, we aim to help individuals learn and improve their coding skills in various programming languages such as Python, Java, and C++.
 
 In this repository, you will find all the lecture codes covered in the classes. You can use this repository to review the code and examples discussed during the lectures.
