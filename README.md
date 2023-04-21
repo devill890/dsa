@@ -17,6 +17,6 @@ Feel free to clone this repository and use it for your personal or educational p
 
 We hope this repository will be a helpful resource for your coding journey. If you have any questions or suggestions, please feel free to reach out to us.
 
-Happy Coding!
+FREELY CODING !
 HACKERSPACE ZINDABAD !
 PHOENIX ZINDABAD !
